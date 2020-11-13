@@ -1,0 +1,11 @@
+__pycache__
+.mypy_cache
+*.egg-info
+glad
+*.out
+generated.*
+*.exe
+*.pdb
+*.dll
+*.ilk
+.vs
